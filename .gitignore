@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+
+
+# Build
+dist/
+build/
+
+# Images
+pictures/gitignore/
